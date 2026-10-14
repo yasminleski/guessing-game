@@ -1,0 +1,21 @@
+:root {
+    font-size: 16px
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    backgroun-clor: #f5f5fa;
+
+    font-family: "Noto Sans", serif;
+    font-optical-sizing: auto;
+}
+
+button {
+    cursor: pointer;
+    transition: filter 0.2s;
+}
