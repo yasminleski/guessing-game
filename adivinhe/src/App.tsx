@@ -5,7 +5,9 @@ import styles from './app.module.css'
 export default function APp() {
     return (
         <div className={styles.container}>
-            <Header />
+       <main>
+        <Header />
+      </main>
         </div>
     )
 }
